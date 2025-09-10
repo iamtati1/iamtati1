@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about my love for running.
 - 📫 How to reach me: email: tatianabarmer@gmail.com Number:(443)-596-4351
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am the middle child in my family.
+- ⚡ Fun fact: I am the middle child in my family. //added "Welcome!"
 -->
-# Hi, I'm Tatiana
+# Hi, I'm Tatiana, Welcome! 
 
 ## About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
