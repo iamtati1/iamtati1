@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about my love for running.
 - 📫 How to reach me: email: tatianabarmer@gmail.com Number:(443)-596-4351
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am the middle child in my family. //added "Welcome!"
+- ⚡ Fun fact: I am the middle child in my family. //added "Welcome!" 
+//git status
+git add README.md
+git commit -m "added bio"
+git push
 -->
 # Hi, I'm Tatiana, Welcome! 
 
