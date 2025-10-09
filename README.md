@@ -2,12 +2,12 @@
 
 ## About Me
 - 💻 Software Engineer in training @ the [Marcy Lab School](https://www.marcylabschool.org/) | ☕ Lover of clean code, creative problem-solving, and community-driven projects.
-- Born in Baltimore → Raised in Baltimore → Currently in New York
+- Born in Baltimore ➡️ Raised in Baltimore ➡️ Currently in New York🌃
 - Outside of work I like to exercise and draw.
 - I’m looking for help with creating a game or app
 - I’m currently working on my networking skills
 - Pronouns: She/Her 
-- Fun fact: I am the middle child in my family.
+- Fun fact: This year, I'm determined to tap into my creative side - mostly by experimenting with art🖼️
 
 - Let's connect via email: tatianabarmer@gmail.com
 
