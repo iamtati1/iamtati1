@@ -23,9 +23,6 @@
 - Git
 - GitHub
 
-## Project Links
-- file:///Users/Marcy_Student/Development/mod-3/swe-3-1-recipe-card-iamtati1/src/index.html built a recipe card webpage for my favorite recipe, basic CSS.
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 
