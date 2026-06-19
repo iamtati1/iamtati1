@@ -1,31 +1,29 @@
 # Hi, I'm Tatiana, Welcome! 
 
 ## About Me
-🌱 Currently learning full-stack software engineering with JavaScript, React, Node.js, Express, and PostgreSQL
-🚀 Building projects that combine creativity, functionality, and user-centered design
-🤝 Actively developing my networking and professional growth skills
-🎨 Outside of coding, I enjoy drawing, fitness, photography, and exploring my creative side
-💡 Interested in collaborating on apps, games, and community-focused tech projects
-
-- Let's connect via email: tatianabarmer@gmail.com
+- 🌱 Currently learning full-stack software engineering with JavaScript, React, Node.js, Express, and PostgreSQL
+- 🚀 Building projects that combine creativity, functionality, and user-centered design
+- 🤝 Actively developing my networking and professional growth skills
+- 🎨 Outside of coding, I enjoy drawing, fitness, photography, and exploring my creative side
+- 💡 Interested in collaborating on apps, games, and community-focused tech projects
 
 ## Tech Stack:
 
-### Languages
+## Languages
 Languages: JavaScript, Python, SQL, HTML, CSS
 
 Frameworks & Libraries: React, Node.js, Express, Tailwind CSS
 
 Tools: Git, GitHub, PostgreSQL, VS Code
 
-### Current Focus
+## Current Focus
 
 🔹 Building full-stack applications
 🔹 Strengthening data structures & algorithms skills
 🔹 Growing my developer network
 🔹 Exploring AI-powered productivity tools
 
-### Let's Connect
+## Let's Connect
 
 📧 Email: tatianabarmer@gmail.com
 
