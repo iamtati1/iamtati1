@@ -1,27 +1,35 @@
 # Hi, I'm Tatiana, Welcome! 
 
 ## About Me
-- 💻 Software Engineer in training @ the [Marcy Lab School](https://www.marcylabschool.org/) | ☕ Lover of clean code, creative problem-solving, and community-driven projects.
-- Born in Baltimore ➡️ Raised in Baltimore ➡️ Currently in New York🌃
-- Outside of work I like to exercise and draw.
-- I’m looking for help with creating a game or app
-- I’m currently working on my networking skills
-- Pronouns: She/Her 
-- Fun fact: This year, I'm determined to tap into my creative side - mostly by experimenting with art🖼️
+🌱 Currently learning full-stack software engineering with JavaScript, React, Node.js, Express, and PostgreSQL
+🚀 Building projects that combine creativity, functionality, and user-centered design
+🤝 Actively developing my networking and professional growth skills
+🎨 Outside of coding, I enjoy drawing, fitness, photography, and exploring my creative side
+💡 Interested in collaborating on apps, games, and community-focused tech projects
 
 - Let's connect via email: tatianabarmer@gmail.com
 
 ## Tech Stack:
 
 ### Languages
-- JavaScript
+Languages: JavaScript, Python, SQL, HTML, CSS
 
-### Frameworks & Libraries
-- Node.js
+Frameworks & Libraries: React, Node.js, Express, Tailwind CSS
 
-### Tools
-- Git
-- GitHub
+Tools: Git, GitHub, PostgreSQL, VS Code
+
+### Current Focus
+
+🔹 Building full-stack applications
+🔹 Strengthening data structures & algorithms skills
+🔹 Growing my developer network
+🔹 Exploring AI-powered productivity tools
+
+### Let's Connect
+
+📧 Email: tatianabarmer@gmail.com
+
+✨ Fun Fact: This year I'm challenging myself to create more—through coding, art, and new experiences.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
