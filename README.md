@@ -23,8 +23,11 @@ Tools: Git, GitHub, PostgreSQL, VS Code
 ## Current Focus
 
 🔹 Building full-stack applications
+
 🔹 Strengthening data structures & algorithms skills
+
 🔹 Growing my developer network
+
 🔹 Exploring AI-powered productivity tools
 
 ## Let's Connect
