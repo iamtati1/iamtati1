@@ -3,6 +3,7 @@
 ## About Me
 🌱 Currently learning full-stack software engineering with JavaScript, React, Node.js, Express, and PostgreSQL 
 🚀 Building projects that combine creativity, functionality, and user-centered design
+
 🤝 Actively developing my networking and professional growth skills
 🎨 Outside of coding, I enjoy drawing, fitness, photography, and exploring my creative side
 💡 Interested in collaborating on apps, games, and community-focused tech projects
