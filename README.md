@@ -5,9 +5,7 @@ I build interactive, user-centered software where engineering meets creativity a
 
 I'm especially interested in building applications that don't just work well — they feel good to use.
 
-🎮 Jolt  🧠 [Kinnect](https://care-infrastructure.onrender.com/)   ✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
-
-
+Interested in: Full-Stack Engineering · Product Engineering · AI · Developer Tools · Interactive Experiences
 
 ## Featured Projects
 
@@ -16,18 +14,19 @@ A full-stack game platform designed around fast, replayable
 games and a polished game-night experience.
 
 `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL`
+Live Demo · GitHub
 
-🧠 Kinnect
+🧠 [Kinnect](https://care-infrastructure.onrender.com/)
 A care-focused application designed to help older adults identify and respond to potential scams, combining accessible UX with AI-powered tools.
 
 `React` · `Node.js` · `Gemini API` · `Speech-to-Text`
+Live Demo · GitHub
 
-✅ TaskFlow
+✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
 A full-stack task management application built to explore real-world application architecture, authentication, APIs, and database design.
 
 `React` · `Vite` · `Express` · `PostgreSQL`
-
-
+Live Demo · GitHub
 
 ## ⚡ Skills
 
@@ -66,8 +65,6 @@ A full-stack task management application built to explore real-world application
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
-
 ## What I'm Interested In
 
 Full-Stack & Product Engineering
@@ -77,7 +74,6 @@ Interactive & Game Experiences
 User-Centered Technology
 Building products from idea → implementation
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Currently
 
@@ -87,31 +83,6 @@ Learning → Backend architecture, system design, and scalable application patte
 
 Growing → Data structures, algorithms, testing, and stronger engineering practices
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Let's Connect
-I'm always interested in connecting with other engineers, builders, and people creating interesting things.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-💻 Software Engineer in Training at The Marcy Lab School
-☕ Passionate about building thoughtful user experiences, solving real-world problems, and growing within the tech community.
-
-📍 Baltimore, MD → Brooklyn, NY 🗽
 
 ## About Me
 🌱Currently learning full-stack software engineering with JavaScript, React, Node.js, Express, and PostgreSQL.
@@ -121,31 +92,12 @@ Actively developing my networking and professional growth skills
 🎨 Outside of coding, I enjoy drawing, fitness, photography, and exploring my creative side
 💡 Interested in collaborating on apps, games, and community-focused tech projects.
 
-## Tech Stack:
-
-## Languages
-Languages: JavaScript, Python, SQL, HTML, CSS
-
-Frameworks & Libraries: React, Node.js, Express, Tailwind CSS
-
-Tools: Git, GitHub, PostgreSQL, VS Code
-
-## Current Focus
-
-🔹 Building full-stack applications
-
-🔹 Strengthening data structures & algorithms skills
-
-🔹 Growing my developer network
-
-🔹 Exploring AI-powered productivity tools
-
 ## Let's Connect
+I'm always interested in connecting with other engineers, builders, and people creating interesting things.
 
 📧 Email: tatianabarmer@gmail.com
 
 ✨ Fun Fact: This year I'm challenging myself to create more—through coding, art, and new experiences.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+
 
