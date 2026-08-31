@@ -6,6 +6,7 @@ I build interactive, user-centered software where engineering meets creativity a
 I'm especially interested in building applications that don't just work well — they feel good to use.
 
 🎮 Jolt  🧠[Kinnect](https://care-infrastructure.onrender.com/)   ✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🚀 Featured Projects
@@ -14,43 +15,19 @@ I'm especially interested in building applications that don't just work well —
 A full-stack game platform designed around fast, replayable
 games and a polished game-night experience.
 
-React · TypeScript · Node.js · Express · PostgreSQL
+`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL`
 
 🧠 Kinnect
 A care-focused application designed to help older adults identify and respond to potential scams, combining accessible UX with AI-powered tools.
 
-React · Node.js · Gemini API · Speech-to-Text
+`React` · `Node.js` · `Gemini API` · `Speech-to-Text`
 
 ✅ TaskFlow
 A full-stack task management application built to explore real-world application architecture, authentication, APIs, and database design.
 
-React · Vite · Express · PostgreSQL
+`React` · `Vite` · `Express` · `PostgreSQL`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 What I'm Interested In
-
-Full-Stack & Product Engineering
-Backend Architecture & Developer Tools
-AI-powered Applications
-Interactive & Game Experiences
-User-Centered Technology
-Building products from idea → implementation
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🌱 Currently
-
-Building → Jolt and exploring what makes software genuinely engaging
-
-Learning → Backend architecture, system design, and scalable application patterns
-
-Growing → Data structures, algorithms, testing, and stronger engineering practices
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💬 Let's Connect
-I'm always interested in connecting with other engineers, builders, and people creating interesting things.
 
 ## ⚡ Skills
 
@@ -89,49 +66,31 @@ I'm always interested in connecting with other engineers, builders, and people c
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+🎯 What I'm Interested In
 
-<details>
-<summary><strong>🎨 Frontend</strong></summary>
+Full-Stack & Product Engineering
+Backend Architecture & Developer Tools
+AI-powered Applications
+Interactive & Game Experiences
+User-Centered Technology
+Building products from idea → implementation
 
-React · TypeScript · JavaScript · Vite · Tailwind CSS · HTML · CSS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</details>
+🌱 Currently
 
-<details>
-<summary><strong>⚙️ Backend</strong></summary>
+Building → Jolt and exploring what makes software genuinely engaging
 
-Node.js · Express · REST APIs · Authentication · Sessions
+Learning → Backend architecture, system design, and scalable application patterns
 
-</details>
+Growing → Data structures, algorithms, testing, and stronger engineering practices
 
-<details>
-<summary><strong>🗄️ Data</strong></summary>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-PostgreSQL · SQL · Database Design · Migrations
-
-</details>
-
-<details>
-<summary><strong>🧪 Engineering</strong></summary>
-
-Git · GitHub · Testing · Debugging · API Design
-
-</details>
-
-<details>
-<summary><strong>🌱 Currently Exploring</strong></summary>
-
-AI APIs · AWS · DevOps · System Design
-
-</details>
-
-
-
-
-
-
-
+💬 Let's Connect
+I'm always interested in connecting with other engineers, builders, and people creating interesting things.
 
 
 
