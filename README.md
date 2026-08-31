@@ -9,7 +9,7 @@ I'm especially interested in building applications that don't just work well —
 
 
 
-🚀## Featured Projects
+## Featured Projects
 
 🎮 Jolt
 A full-stack game platform designed around fast, replayable
