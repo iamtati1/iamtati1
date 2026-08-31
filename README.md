@@ -16,17 +16,17 @@ games and a polished game-night experience.
 `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL`
 Live Demo · GitHub
 
-🧠 [Kinnect](https://care-infrastructure.onrender.com/)
+🧠 Kinnect
 A care-focused application designed to help older adults identify and respond to potential scams, combining accessible UX with AI-powered tools.
 
 `React` · `Node.js` · `Gemini API` · `Speech-to-Text`
-Live Demo · GitHub
+[Live Demo](https://care-infrastructure.onrender.com/) · GitHub
 
-✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
+✅ TaskFlow 
 A full-stack task management application built to explore real-world application architecture, authentication, APIs, and database design.
 
 `React` · `Vite` · `Express` · `PostgreSQL`
-Live Demo · GitHub
+[Live Demo](https://taskflow-onrender-com.onrender.com/auth) · GitHub
 
 ## ⚡ Skills
 
