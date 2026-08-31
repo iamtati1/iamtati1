@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Tatiana's software engineering workspace" width="100%">
+</p>
+
 # Hi, I'm Tatiana, Welcome! 
 ## Software Engineer | Full-Stack Developer
 
