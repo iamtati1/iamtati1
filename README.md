@@ -1,4 +1,137 @@
 # Hi, I'm Tatiana, Welcome! 
+## Software Engineer | Full-Stack Developer
+
+build interactive, user-centered software where engineering meets creativity and product experience.
+
+I'm especially interested in building applications that don't just work well — they feel good to use.
+
+        🎮 Jolt          🧠[Kinnect](https://care-infrastructure.onrender.com/)          ✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🎮 Jolt
+A full-stack game platform designed around fast, replayable
+games and a polished game-night experience.
+
+React · TypeScript · Node.js · Express · PostgreSQL
+
+🧠 Kinnect
+A care-focused application designed to help older adults identify and respond to potential scams, combining accessible UX with AI-powered tools.
+
+React · Node.js · Gemini API · Speech-to-Text
+
+✅ TaskFlow
+A full-stack task management application built to explore real-world application architecture, authentication, APIs, and database design.
+
+React · Vite · Express · PostgreSQL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 Tech I Work With
+
+Languages
+JavaScript · TypeScript · Python · SQL
+
+Frontend
+React · Vite · Tailwind CSS · HTML · CSS
+
+Backend & Data
+Node.js · Express · PostgreSQL · REST APIs
+
+Tools & Practices
+Git · GitHub · Testing · Authentication · Debugging
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 What I'm Interested In
+
+Full-Stack & Product Engineering
+Backend Architecture & Developer Tools
+AI-powered Applications
+Interactive & Game Experiences
+User-Centered Technology
+Building products from idea → implementation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌱 Currently
+
+Building → Jolt and exploring what makes software genuinely engaging
+
+Learning → Backend architecture, system design, and scalable application patterns
+
+Growing → Data structures, algorithms, testing, and stronger engineering practices
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💬 Let's Connect
+I'm always interested in connecting with other engineers, builders, and people creating interesting things.
+
+
+
+## ⚡ Skills
+
+[badges for 6 core technologies]
+
+<details>
+<summary><strong>🎨 Frontend</strong></summary>
+
+React · TypeScript · JavaScript · Vite · Tailwind CSS · HTML · CSS
+
+</details>
+
+<details>
+<summary><strong>⚙️ Backend</strong></summary>
+
+Node.js · Express · REST APIs · Authentication · Sessions
+
+</details>
+
+<details>
+<summary><strong>🗄️ Data</strong></summary>
+
+PostgreSQL · SQL · Database Design · Migrations
+
+</details>
+
+<details>
+<summary><strong>🧪 Engineering</strong></summary>
+
+Git · GitHub · Testing · Debugging · API Design
+
+</details>
+
+<details>
+<summary><strong>🌱 Currently Exploring</strong></summary>
+
+AI APIs · AWS · DevOps · System Design
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 💻 Software Engineer in Training at The Marcy Lab School
 ☕ Passionate about building thoughtful user experiences, solving real-world problems, and growing within the tech community.
 
