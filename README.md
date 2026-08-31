@@ -21,10 +21,11 @@ games and a polished game-night experience.
 Live Demo · GitHub
 
 🧠 Kinnect
+
 A care-focused application designed to help older adults identify and respond to potential scams, combining accessible UX with AI-powered tools.
 
 `React` · `Node.js` · `Gemini API` · `Speech-to-Text`
-[Live Demo](https://care-infrastructure.onrender.com/) · GitHub
+[Live Demo](https://care-infrastructure.onrender.com/) · [GitHub](https://github.com/project-jwt/care-infrastructure)
 
 ✅ TaskFlow 
 A full-stack task management application built to explore real-world application architecture, authentication, APIs, and database design.
