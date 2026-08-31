@@ -5,7 +5,7 @@ I build interactive, user-centered software where engineering meets creativity a
 
 I'm especially interested in building applications that don't just work well — they feel good to use.
 
-🎮 ##Jolt  🧠##[Kinnect](https://care-infrastructure.onrender.com/)   ✅##[TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
+🎮 Jolt  🧠 [Kinnect](https://care-infrastructure.onrender.com/)   ✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
 
 
 
@@ -27,7 +27,7 @@ A full-stack task management application built to explore real-world application
 
 `React` · `Vite` · `Express` · `PostgreSQL`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## ⚡ Skills
 
@@ -66,9 +66,9 @@ A full-stack task management application built to explore real-world application
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎯 What I'm Interested In
+
+🎯##What I'm Interested In
 
 Full-Stack & Product Engineering
 Backend Architecture & Developer Tools
