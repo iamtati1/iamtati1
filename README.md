@@ -68,7 +68,7 @@ A full-stack task management application built to explore real-world application
 
 
 
-🎯##What I'm Interested In
+## What I'm Interested In
 
 Full-Stack & Product Engineering
 Backend Architecture & Developer Tools
@@ -79,7 +79,7 @@ Building products from idea → implementation
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌱 Currently
+## Currently
 
 Building → Jolt and exploring what makes software genuinely engaging
 
@@ -89,7 +89,7 @@ Growing → Data structures, algorithms, testing, and stronger engineering pract
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💬 Let's Connect
+## Let's Connect
 I'm always interested in connecting with other engineers, builders, and people creating interesting things.
 
 
