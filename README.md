@@ -26,7 +26,7 @@ A full-stack game platform designed around fast, replayable games and a polished
 
 **React · TypeScript · Node.js · Express · PostgreSQL**
 
-[Live Demo ↗](YOUR_JOLT_DEMO) · [GitHub ↗](https://github.com/iamtati1/game-night)
+[Live Demo ↗](https://jolt-4mjc.onrender.com/) · [GitHub ↗](https://github.com/iamtati1/game-night)
 
 </td>
 
