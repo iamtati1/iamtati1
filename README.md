@@ -1,11 +1,11 @@
 # Hi, I'm Tatiana, Welcome! 
 ## Software Engineer | Full-Stack Developer
 
-build interactive, user-centered software where engineering meets creativity and product experience.
+I build interactive, user-centered software where engineering meets creativity and product experience.
 
 I'm especially interested in building applications that don't just work well — they feel good to use.
 
-        🎮 Jolt          🧠[Kinnect](https://care-infrastructure.onrender.com/)          ✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
+🎮 Jolt  🧠[Kinnect](https://care-infrastructure.onrender.com/)   ✅ [TaskFlow](https://taskflow-onrender-com.onrender.com/auth)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🚀 Featured Projects
