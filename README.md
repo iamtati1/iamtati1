@@ -38,7 +38,7 @@ A care-focused application designed to help older adults identify and respond to
 
 **React · Node.js · Gemini API · Speech-to-Text**
 
-[Live Demo ↗](YOUR_KINNECT_DEMO) · [GitHub ↗](YOUR_KINNECT_GITHUB)
+[Live Demo ↗](https://care-infrastructure.onrender.com/) · [GitHub ↗](https://github.com/project-jwt/care-infrastructure)
 
 </td>
 
@@ -50,7 +50,7 @@ A full-stack task management application built to explore real-world architectur
 
 **React · Vite · Express · PostgreSQL**
 
-[Live Demo ↗](YOUR_TASKFLOW_DEMO) · [GitHub ↗](YOUR_TASKFLOW_GITHUB)
+[Live Demo ↗](https://taskflow-onrender-com.onrender.com/auth) · [GitHub ↗](https://github.com/iamtati1/taskflow)
 
 </td>
 </tr>
