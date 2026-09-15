@@ -2,13 +2,17 @@
   <img src="./The best screenshot.png" alt="Tatiana's GitHub banner" width="100%">
 </p>
 
-# Hi, I'm Tatiana 👋
+# Tatiana Barmer
 
-### Software Engineer | Full-Stack Developer
+### Software Engineer | Full-Stack • AI • Product Development
 
-I build interactive, user-centered software where engineering meets creativity and product experience.
+**Hi, I’m Tatiana — I’m interested in the engineering behind the experience: the systems, logic, and decisions that make technology work.** I work across the stack, with a particular interest in full-stack development, AI-powered applications, and creating experiences that feel intuitive and purposeful. I care about more than getting an application to work; I think about how people will interact with it, what they need from it, and how technology can make that experience better.
 
-I'm especially interested in building applications that don't just work well — **they feel good to use.**
+* **I got into software engineering through a love of learning, creating, and helping people.** I enjoy taking an idea, working through the challenges behind it, and turning it into something real. I’m always looking for something new to learn, build, or understand.
+
+* **I’m drawn to problems that make me think.** Whether I’m working through a technical challenge, exploring a new technology, or figuring out how the pieces of an application fit together, I enjoy the process of finding a way forward.
+
+* **When I’m not coding, I’m probably reading, exploring something new, spending time with the people I love, or following a completely random question down a rabbit hole.** I’m naturally curious, and I like leaving room for that curiosity to take me somewhere unexpected.
 
 **Interested in:** Full-Stack Engineering · Product Engineering · AI · Developer Tools · Interactive Experiences
 
