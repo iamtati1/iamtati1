@@ -6,7 +6,7 @@
 
 ### Software Engineer | Full-Stack • AI • Product Development
 
-**Hi, I’m Tatiana — I’m interested in the engineering behind the experience: the systems, logic, and decisions that make technology work.** I work across the stack, with a particular interest in full-stack development, AI-powered applications, and creating experiences that feel intuitive and purposeful. I care about more than getting an application to work; I think about how people will interact with it, what they need from it, and how technology can make that experience better.
+**Hi, I’m Tatiana. I’m interested in the engineering behind the experience: the systems, logic, and decisions that make technology work.** I work across the stack, with a particular interest in full-stack development, AI-powered applications, and creating experiences that feel intuitive and purposeful. I care about more than getting an application to work; I think about how people will interact with it, what they need from it, and how technology can make that experience better.
 
 * **I got into software engineering through a love of learning, creating, and helping people.** I enjoy taking an idea, working through the challenges behind it, and turning it into something real. I’m always looking for something new to learn, build, or understand.
 
