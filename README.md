@@ -14,7 +14,7 @@
 
 * **When I’m not coding, I’m probably reading, exploring something new, spending time with the people I love, or following a completely random question down a rabbit hole.** I’m naturally curious, and I like leaving room for that curiosity to take me somewhere unexpected.
 
-**Interested in:** Full-Stack Engineering · Product Engineering · AI · Developer Tools · Interactive Experiences
+**Areas of Focus:** Full-Stack Engineering · Product Engineering · AI · Developer Tools · Interactive Experiences
 
 ---
 
